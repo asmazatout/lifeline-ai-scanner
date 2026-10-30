@@ -48,4 +48,10 @@ This version simulates the QR scanning process. It does not include a physical Q
  📌 Project Status
 
 Prototype – Basic functionality implemented and simulated using Arduino.
+📸 Project Screenshots
 
+ Project Overview
+![Project Overview](project-overview.png)
+
+ Project Simulation
+![Project Simulation](project-simulation.png)
